@@ -1,0 +1,175 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="Action Max FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/ActionMax_2011.svg/revision/latest/scale-to-width-down/340?cb=20160721192021" group-title="PPV CINE",Action Max FHD
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54862
+#EXTINF:-1 tvg-id="amc.mx" tvg-name="AMC" tvg-logo="https://img2.freepng.es/20180707/jpa/kisspng-amc-television-show-television-channel-satellite-t-capri-sun-logo-5b41563d260ac7.8445182315310085731558.jpg" group-title="CINE",AMC
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/42431
+#EXTINF:-1 tvg-id="amc.mx" tvg-name="AMC ⁽ᴴᴰ⁾" tvg-logo="https://img2.freepng.es/20180707/jpa/kisspng-amc-television-show-television-channel-satellite-t-capri-sun-logo-5b41563d260ac7.8445182315310085731558.jpg" group-title="CINE",AMC ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/40116
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET ⁽ᴴᴰ⁾" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Animal_Planet_channel_logo_green.png" group-title="ENTRETENCIÓN",ANIMAL PLANET ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/5406
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="ANIMAL PLANET ⁽ᵃ⁾" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Animal_Planet_channel_logo_green.png" group-title="ENTRETENCIÓN",ANIMAL PLANET ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1160
+#EXTINF:-1 tvg-id="" tvg-name="AR: 13 Max HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Canal13cteslogo2018.png/revision/latest/scale-to-width-down/340?cb=20190831162351&path-prefix=es" group-title="ARGENTINA",AR: 13 Max HD
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54955
+#EXTINF:-1 tvg-id="america.ar" tvg-name="AR: America FHD" tvg-logo="https://yt3.ggpht.com/a/AATXAJzXVm64zyORjNlL_yNrdeenYRqSlKpcc3jvIiOwBQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="ARGENTINA",AR: America FHD
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54957
+#EXTINF:-1 tvg-id="" tvg-name="AR: AMERICA TV" tvg-logo="https://argentina.mom-rsf.org/typo3temp/_processed_/5/7/csm_16023-1639_import_7d2ded6aa2.png" group-title="ARGENTINA",AR: AMERICA TV
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/16184
+#EXTINF:-1 tvg-id="" tvg-name="AR: TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",AR: TELEFE
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/3744
+#EXTINF:-1 tvg-id="" tvg-name="AR: TELEFE*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",AR: TELEFE*
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/3745
+#EXTINF:-1 tvg-id="" tvg-name="AXN LATINO ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="CINE",AXN LATINO ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1725
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="CINE",AXN WHITE ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/39835
+#EXTINF:-1 tvg-id="axn.co" tvg-name="AXN ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="CINE",AXN ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/42432
+#EXTINF:-1 tvg-id="axn.co" tvg-name="AXN ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="CINE",AXN ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27591
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD NEWS" tvg-logo="https://i.ya-webdesign.com/images/bbc-world-news-logo-png-11.png" group-title="NOTICIAS",BBC WORLD NEWS
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27706
+#EXTINF:-1 tvg-id="" tvg-name="CALIFORNIA MUSIC" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/bc/Gallery_1157_7_147957.png/revision/latest/scale-to-width-down/340?cb=20150406181433&path-prefix=es" group-title="MÚSICA",CALIFORNIA MUSIC
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/3541
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="CALIFORNIA MUSIC CHANNEL" tvg-logo="https://2.bp.blogspot.com/-gqqocQj-_pI/VRLfFV1bJFI/AAAAAAAAARI/vHexq1CZ3r8/s1600/CMC-Music-Channel.png" group-title="MÚSICA",CALIFORNIA MUSIC CHANNEL
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/50198
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CHILENO" tvg-logo="https://www.pesalmanac.com/cdn/competition/emb_0023_l.png" group-title="PPV LIGAS DE FÚTBOL",CAMPEONATO CHILENO
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54021
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CHILENO ⁽ᴹ⁾" tvg-logo="https://www.chilemagazine.net/wp-content/uploads/2020/08/CHI-1.png" group-title="PPV LIGAS DE FÚTBOL",CAMPEONATO CHILENO ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/58267
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Europa Pista Plovdiv 2020" tvg-logo="blob:https://web.telegram.org/8d00902a-27c4-4e71-a302-6bf6facf3957" group-title="PPV CICLISMO",Campeonato Europa Pista Plovdiv 2020
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/61662
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DE NOTICIAS 24/7" tvg-logo="https://i.ytimg.com/vi/uOHFlKtit30/maxresdefault.jpg" group-title="NOTICIAS",CANAL DE NOTICIAS 24/7
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27712
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://i.pinimg.com/originals/a0/61/77/a06177244ab77bb5ff7bc874412f3311.png" group-title="INFANTIL",CARTOON NETWORK
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1163
+#EXTINF:-1 tvg-id="cartoonnetwork.co" tvg-name="Cartoon Network ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="LATINOS SD",Cartoon Network ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55401
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK*" tvg-logo="https://i.pinimg.com/originals/a0/61/77/a06177244ab77bb5ff7bc874412f3311.png" group-title="INFANTIL",CARTOON NETWORK*
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/15804
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA" tvg-logo="https://4.bp.blogspot.com/-D93WZfofBzY/UsUy4ZiUq4I/AAAAAAAAQ9w/0FM1JdhIS4w/s1600/Caza-y-Pesca-Logotipo.jpg" group-title="DEPORTES",CAZA Y PESCA
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/11000
+#EXTINF:-1 tvg-id="" tvg-name="CBC NEWS" tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" group-title="NOTICIAS",CBC NEWS
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27709
+#EXTINF:-1 tvg-id="cdf.cl" tvg-name="CDF BASICO (ꜰʜᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES",CDF BASICO (ꜰʜᴅ)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/16704
+#EXTINF:-1 tvg-id="cdf.cl" tvg-name="CDF BASICO ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES",CDF BASICO ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/14789
+#EXTINF:-1 tvg-id="cdfp.cl" tvg-name="CDF ESTADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Estadio_CDF.png" group-title="DEPORTES",CDF ESTADIO
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/15878
+#EXTINF:-1 tvg-id="cdfhd.cl" tvg-name="CDF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES",CDF HD
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27180
+#EXTINF:-1 tvg-id="cdfhd.cl" tvg-name="CDF HD 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES",CDF HD 1080
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/601
+#EXTINF:-1 tvg-id="cdfhd.cl" tvg-name="CDF HD 720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES",CDF HD 720
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/600
+#EXTINF:-1 tvg-id="cdfhd.cl" tvg-name="CDF HD ⁽²⁾" tvg-logo="https://forounivers.com/uploads/monthly_2019_02/large.1474904628_CDFHD(2019).png.8507b3d517096b1aa0d800f026e8fd74.png" group-title="DEPORTES",CDF HD ⁽²⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/16687
+#EXTINF:-1 tvg-id="cdfhd.cl" tvg-name="CDF HD ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES",CDF HD ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/3069
+#EXTINF:-1 tvg-id="cdfp.cl" tvg-name="CDF PREMIUM ⁽ˢᵈ⁾" tvg-logo="http://balongol.com/wp-content/uploads/2019/10/Logocdfpremium20191.png" group-title="DEPORTES",CDF PREMIUM ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/25322
+#EXTINF:-1 tvg-id="" tvg-name="CDM --" tvg-logo="http://tv.iptv5latino.cl:8000/images/dd15a7c4d52bc4cfd3fbe832cd458a24.png" group-title="REPUBLICA DOMINICANA",CDM --
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/39661
+#EXTINF:-1 tvg-id="" tvg-name="CDM Internacional" tvg-logo="https://4.bp.blogspot.com/-D--Pt2otOhA/WoHsvQlirsI/AAAAAAAAcGQ/J7Oa7fInBOAzpJ3FS77Y0JMRwrsWTyTXQCLcBGAs/s1600/CDMinternacional.png" group-title="PUERTO RICO",CDM Internacional
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57750
+#EXTINF:-1 tvg-id="" tvg-name="CDO BÁSICO" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/cdo.png" group-title="DEPORTES",CDO BÁSICO
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57714
+#EXTINF:-1 tvg-id="" tvg-name="CDO PREMIUM " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="DEPORTES",CDO PREMIUM 
+https://cdo.04.cl.cdnz.cl/cdoplus/smil:cdn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CDO PREMIUM ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="DEPORTES",CDO PREMIUM ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/15601
+#EXTINF:-1 tvg-id="" tvg-name="CH: 13 DOCU" tvg-logo="http://tv.iptv5latino.cl:8000/images/15b4d204eb67f9c210d41fdeef097b9b.png" group-title="CHILE",CH: 13 DOCU
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/33491
+#EXTINF:-1 tvg-id="13c.cl" tvg-name="CH: 13C" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Canal13Chile-13C.png" group-title="CHILE",CH: 13C
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/16175
+#EXTINF:-1 tvg-id="13.cl" tvg-name="CH: 13C ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Canal13Chile-LogoV2-Cable.png" group-title="CHILE",CH: 13C ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/511
+#EXTINF:-1 tvg-id="24h.cl" tvg-name="CH: 24 HORAS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/24_Horas_TVN_alt.png/1200px-24_Horas_TVN_alt.png" group-title="CHILE",CH: 24 HORAS 
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/15540
+#EXTINF:-1 tvg-id="" tvg-name="CH: 24 HORAS (directo)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/24_Horas_TVN_alt.png" group-title="CHILE",CH: 24 HORAS (directo)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/41830
+#EXTINF:-1 tvg-id="13.cl" tvg-name="CH: CANAL 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Canal_13_2018.png" group-title="CHILE",CH: CANAL 13
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27155
+#EXTINF:-1 tvg-id="13.cl" tvg-name="CH: CANAL 13 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Canal_13_2018.png" group-title="CHILE",CH: CANAL 13 1080
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/513
+#EXTINF:-1 tvg-id="13.cl" tvg-name="CH: CANAL 13 720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Canal_13_de_Chile_%28Isotipo_2018%29.svg/1200px-Canal_13_de_Chile_%28Isotipo_2018%29.svg.png" group-title="CHILE",CH: CANAL 13 720
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/15882
+#EXTINF:-1 tvg-id="13.cl" tvg-name="CH: CANAL 13 ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Canal_13_de_Chile_%28Isotipo_2018%29.svg/1280px-Canal_13_de_Chile_%28Isotipo_2018%29.svg.png" group-title="CHILE",CH: CANAL 13 ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/25177
+#EXTINF:-1 tvg-id="" tvg-name="CH: CANAL 13i" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Canal_13i.png" group-title="CHILE",CH: CANAL 13i
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/15765
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="CH: CANAL 13i ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Canal_13i.png" group-title="CHILE",CH: CANAL 13i ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/49831
+#EXTINF:-1 tvg-id="chv.cl" tvg-name="CH: CHILEVISION 1080" tvg-logo="https://www.chilevision.cl/chilevision/site/artic/20191108/imag/foto_0000000120191108131036/chv_logo.png" group-title="CHILE",CH: CHILEVISION 1080
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1159
+#EXTINF:-1 tvg-id="chv.cl" tvg-name="CH: CHILEVISION 720" tvg-logo="https://www.chilevision.cl/chilevision/site/artic/20191108/imag/foto_0000000120191108131036/chv_logo.png" group-title="CHILE",CH: CHILEVISION 720
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/899
+#EXTINF:-1 tvg-id="" tvg-name="CH: CHILEVISION ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="CHILE",CH: CHILEVISION ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/61826
+#EXTINF:-1 tvg-id="chv.cl" tvg-name="CH: CHILEVISION ⁽ᴴᴰ⁾" tvg-logo="https://www.ecured.cu/images/5/5a/Sdrfgd.png" group-title="CHILE",CH: CHILEVISION ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54997
+#EXTINF:-1 tvg-id="chv.cl" tvg-name="CH: CHILEVISION ⁽ᴹ⁾" tvg-logo="https://www.chilevision.cl/chilevision/site/artic/20191108/imag/foto_0000000120191108131036/chv_logo.png" group-title="CHILE",CH: CHILEVISION ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/34769
+#EXTINF:-1 tvg-id="cnn.cl" tvg-name="CH: CNN CHILE ⁽ᴴᴰ⁾" tvg-logo="https://static1.squarespace.com/static/53daa37ce4b0f890bb843382/57d951299de4bb2ee647248b/5b4a2210575d1fa91f095bb6/1531586114541/Cnn_cl.png?format=1500w" group-title="CHILE",CH: CNN CHILE ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/17722
+#EXTINF:-1 tvg-id="cnn.cl" tvg-name="CH: CNN CHILE ⁽ᴹ⁾" tvg-logo="https://static1.squarespace.com/static/53daa37ce4b0f890bb843382/57d951299de4bb2ee647248b/5b4a2210575d1fa91f095bb6/1531586114541/Cnn_cl.png?format=1500w" group-title="CHILE",CH: CNN CHILE ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/38249
+#EXTINF:-1 tvg-id="cnn.mx" tvg-name="CH: CNN ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png" group-title="CHILE",CH: CNN ESPAÑOL
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/15712
+#EXTINF:-1 tvg-id="etctv.cl" tvg-name="CH: ETC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="CHILE",CH: ETC TV
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/15928
+
+#EXTINF:-1 tvg-id="" tvg-name="CH: FM HOT CINE " tvg-logo="https://img.webme.com/pic/e/eric-cast/fmhot3.png" group-title="CHILE",CH: FM HOT CINE 
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1764
+#EXTINF:-1 tvg-id="" tvg-name="CH: HAGALO UD MISMO TV" tvg-logo="http://tv.iptv5latino.cl:8000/images/7ee6bf97ef77f7f7477002b0b2ddbe05.png" group-title="CHILE",CH: HAGALO UD MISMO TV
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/33492
+#EXTINF:-1 tvg-id="red.cl" tvg-name="CH: LA RED" tvg-logo="https://lh3.googleusercontent.com/proxy/5ecUUSc-YoOROa8ArmrQ_S3TxCAvJCjQAcMinqKbWugb0l7WD5RVMeB_iGajggy8Yez1K9dwNDQlF8cixu0J_Y1kAvDqcykdK_pA3zQUqcKDYS-2yB0XQE49inmYsHE" group-title="CHILE",CH: LA RED
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/518
+#EXTINF:-1 tvg-id="" tvg-name="CH: LA RED ⁽ᴴᴰ⁾" tvg-logo="https://aam.cl/wp-content/uploads/2018/08/1200px-La_Red_Logotipo.svg_.png" group-title="CHILE",CH: LA RED ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/53437
+#EXTINF:-1 tvg-id="red.cl" tvg-name="CH: LA RED ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/La_Red_Logotipo.svg/200px-La_Red_Logotipo.svg.png" group-title="CHILE",CH: LA RED ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/15422
+#EXTINF:-1 tvg-id="" tvg-name="CH: MEGA 1080 ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png" group-title="CHILE",CH: MEGA 1080 ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/17284
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="CH: MEGA 720 ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png" group-title="CHILE",CH: MEGA 720 ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/16742
+#EXTINF:-1 tvg-id="" tvg-name="CH: MEGA GORMET" tvg-logo="http://tv.iptv5latino.cl:8000/images/c05462909348f837aa7ca2f60ecf0a29.png" group-title="CHILE",CH: MEGA GORMET
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/33490
+#EXTINF:-1 tvg-id="" tvg-name="CH: MEGA PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/MegaPlus.png" group-title="CHILE",CH: MEGA PLUS
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/15864
+#EXTINF:-1 tvg-id="" tvg-name="CH: MEGA ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png" group-title="CHILE",CH: MEGA ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/58410
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="CH: MEGA ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png" group-title="CHILE",CH: MEGA ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/17304
+#EXTINF:-1 tvg-id="" tvg-name="CH: MEGANOTICIAS (directo)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png" group-title="CHILE",CH: MEGANOTICIAS (directo)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/58409
+#EXTINF:-1 tvg-id="" tvg-name="CH: REC TV" tvg-logo="https://static.13.cl/7/sites/all/themes/rec_v2/images/logo2.png?1" group-title="CHILE",CH: REC TV
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/9865
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="CH: REC TV ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Logo_Rec_TV_%282015%29.png" group-title="CHILE",CH: REC TV ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/52671
+#EXTINF:-1 tvg-id="" tvg-name="CH: T13 MOVIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Teletrece_Logo_%282012%29.svg/1200px-Teletrece_Logo_%282012%29.svg.png" group-title="CHILE",CH: T13 MOVIL
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/2269
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="CH: TELETRAK" tvg-logo="https://imgur.com/SGX5yDQ.png" group-title="CHILE",CH: TELETRAK
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54388
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELETRAK ⁽ˢᵈ⁾" tvg-logo="https://www.teletrak.cl/imagenes/logo.png" group-title="CHILE",CH: TELETRAK ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54998
+
+#EXTINF:-1 tvg-id="" tvg-name="CH: TV CAMARA DE DIPUTADOS" tvg-logo="https://img2.eltipografo.cl/media/2018/03/Logocdtv.jpg" group-title="CHILE",CH: TV CAMARA DE DIPUTADOS
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/2691
+
+#EXTINF:-1 tvg-id="" tvg-name="CH: TVN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0d/TVN_2016.svg/revision/latest/scale-to-width-down/340?cb=20160811021146" group-title="CHILE",CH: TVN
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27156
+#EXTINF:-1 tvg-id="tvn.cl" tvg-name="CH: TVN ⁽ᴴᴰ⁾" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0d/TVN_2016.svg/revision/latest/scale-to-width-down/340?cb=20160811021146" group-title="CHILE",CH: TVN ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/520
+#EXTINF:-1 tvg-id="" tvg-name="CH: TVN ⁽ᴹ⁾" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0d/TVN_2016.svg/revision/latest/scale-to-width-down/340?cb=20160811021146" group-title="CHILE",CH: TVN ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27154
+#EXTINF:-1 tvg-id="tvn.cl" tvg-name="CH: TVN ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/TVN_Chile_Logo.svg/400px-TVN_Chile_Logo.svg.png" group-title="CHILE",CH: TVN ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/519
+#EXTINF:-1 tvg-id="" tvg-name="CH: ZONA LATINA ⁽ˢᵈ⁾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR49Z6pFm-M-7ejQ5cKHl-8boA4n6rflg6Njg&usqp=CAU" group-title="CHILE",CH: ZONA LATINA ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60879
+#EXTINF:-1 tvg-id="" tvg-name="Chespirito TV" tvg-logo="http://tv.iptv5latino.cl:8000/images/ee8406b40b0d49cdffe3e9f6e6634fe9.png" group-title="24/7 PREMIUM",Chespirito TV
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60615
+
+#EXTINF:-1 tvg-id="" tvg-name="Chicas Superpoderosas" tvg-logo="http://tv.iptv5latino.cl:8000/images/54b883bb93cec3f6fda1dd9692187236.png" group-title="24/7 PREMIUM",Chicas Superpoderosas
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60529
