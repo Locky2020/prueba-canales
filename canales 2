@@ -1,29 +1,69 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ACCION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Movistar_Acci%C3%B3n.svg" group-title="ESPAÑA",ES: MOVISTAR ACCION
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/3659
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ACCION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Movistar_Acci%C3%B3n.svg" group-title="ESPAÑA",ES: MOVISTAR ACCION
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27455
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Movistar_Comedia.svg" group-title="ESPAÑA",ES: MOVISTAR COMEDIA
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/3658
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Movistar_Comedia.svg" group-title="ESPAÑA",ES: MOVISTAR COMEDIA
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27457
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="ESPAÑA",ES: MOVISTAR DEPORTES 1
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/3657
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DRAMA" tvg-logo="http://144.217.91.146/Logos/Spain/movistar-drama-es.png" group-title="ESPAÑA",ES: MOVISTAR DRAMA
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27459
-#EXTINF:-1 tvg-id="movistarestrenos.sp" tvg-name="ES: MOVISTAR ESTRENOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Movistar_Estrenos.svg" group-title="ESPAÑA",ES: MOVISTAR ESTRENOS
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/43354
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Movistar_Formula_1.svg" group-title="ESPAÑA",ES: MOVISTAR F1
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/3656
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR F1*" tvg-logo="http://144.217.91.146/Logos/Spain/movistar-es-formula-1.png" group-title="ESPAÑA",ES: MOVISTAR F1*
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27461
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR GOLF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Movistar_Golf.svg" group-title="ESPAÑA",ES: MOVISTAR GOLF
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/3655
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LA LIGA TV BAR" tvg-logo="https://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="ESPAÑA",ES: MOVISTAR LA LIGA TV BAR
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/45691
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Movistar_Series.svg" group-title="ESPAÑA",ES: MOVISTAR SERIES
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27462
-#EXTINF:-1 tvg-id="" tvg-name="ES: MTV" tvg-logo="http://144.217.91.146/Logos/Spain/mtv-us.png" group-title="ESPAÑA",ES: MTV
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27464
-#EXTINF:-1 tvg-id="" tvg-name="ES: PEQUE RADIO" tvg-logo="https://i.ytimg.com/vi/HsaNQjFb3jg/hqdefault.jpg" group-title="ESPAÑA",ES: PEQUE RADIO
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/3678
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN" tvg-logo="https://jmsearch.com/wp-content/uploads/2016/03/ESPN.png" group-title="DEPORTES",ESPN
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54125
+
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN 1 (méxico)" tvg-logo="https://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png" group-title="DEPORTES",ESPN 1 (méxico)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/32979
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 SUR (ꜰʜᴅ)" tvg-logo="https://www.gador.com.ar/wp-content/uploads/2017/04/espn-logo-red-850x316.png" group-title="DEPORTES",ESPN 1 SUR (ꜰʜᴅ)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/610
+#EXTINF:-1 tvg-id="espn.co" tvg-name="ESPN 1 SUR ⁽ᴹ⁾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSf1dc2MSlX1Edu-Z2u-mX0MCCRijaivigbmZuwFCdvD-fLn1bR&usqp=CAU" group-title="DEPORTES",ESPN 1 SUR ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/49402
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 SUR ⁽ᵃ⁾ chile" tvg-logo="https://www.gador.com.ar/wp-content/uploads/2017/04/espn-logo-red.png" group-title="DEPORTES",ESPN 1 SUR ⁽ᵃ⁾ chile
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/58049
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (argentina)" tvg-logo="https://www.logolynx.com/images/logolynx/f6/f6fc6b0d8b876da9ab2ed9b72e3f7e06.png" group-title="DEPORTES",ESPN 2 (argentina)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/58092
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 (argentina) ⁽ᵃ⁾" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 (argentina) ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/53991
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (colombia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2 (colombia)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/58064
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (colombia) ᴹ⁾" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 (colombia) ᴹ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/58089
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="ESPN 2 (mexico) ⁽ᵃ⁾" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 (mexico) ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/53649
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN 2 (méxico)" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 (méxico)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27553
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (usa)" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 (usa)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57818
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 CHILE 1080" tvg-logo="https://www.logolynx.com/images/logolynx/f6/f6fc6b0d8b876da9ab2ed9b72e3f7e06.png" group-title="DEPORTES",ESPN 2 CHILE 1080
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57325
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 CHILE 720 ⁽ᴹ⁾" tvg-logo="https://logodix.com/logo/313657.png" group-title="DEPORTES",ESPN 2 CHILE 720 ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/16686
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 CHILE SD" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="LATINOS SD",ESPN 2 CHILE SD
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55413
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 CHILE ⁽ˢᵈ⁾" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 CHILE ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/61849
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="ESPN 2 HD Brasil" tvg-logo="" group-title="BRASIL",ESPN 2 HD Brasil
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54328
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 NORTE" tvg-logo="https://www.logolynx.com/images/logolynx/f6/f6fc6b0d8b876da9ab2ed9b72e3f7e06.png" group-title="DEPORTES",ESPN 2 NORTE
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54306
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 NORTE ⁽ˢᵈ⁾" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 NORTE ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54399
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 NORTE ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2 NORTE ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/61490
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 SUR" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 SUR
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/14869
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 SUR ⁽ᴴᴰ⁾" tvg-logo="https://logodix.com/logo/313657.png" group-title="DEPORTES",ESPN 2 SUR ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/609
+#EXTINF:-1 tvg-id="espn3.ar" tvg-name="ESPN 3" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="LATINOS SD",ESPN 3
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55414
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 (méxico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 (méxico)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/15766
+#EXTINF:-1 tvg-id="espn3.ar" tvg-name="ESPN 3 SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 SUR
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/608
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SUR ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="DEPORTES",ESPN 3 SUR ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/26135
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54124
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="ESPN DEPORTES ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES",ESPN DEPORTES ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54126
+#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES ⁽ᵃ⁾" tvg-logo="https://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png" group-title="DEPORTES",ESPN DEPORTES ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/14050
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="DEPORTES",ESPN EXTRA
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/14085
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="DEPORTES",ESPN EXTRA ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/41661
+#EXTINF:-1 tvg-id="" tvg-name="ESPN U ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/768px-ESPN_U_logo.svg.png" group-title="DEPORTES",ESPN U ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/58061
+#EXTINF:-1 tvg-id="espn.co" tvg-name="ESPN ⁽ˢᵈ⁾" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="LATINOS SD",ESPN ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55412
