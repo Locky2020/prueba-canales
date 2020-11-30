@@ -1,48 +1,95 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Gallo claudio" tvg-logo="http://tv.iptv5latino.cl:8000/images/b8a128c213bb417716f7273b3cc9d127.png" group-title="24/7 PREMIUM",Gallo claudio
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60553
 
 
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/847px-Logo_Golden_TV.svg.png" group-title="CINE",GOLDEN 
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1743
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="http://www.cablered.tv/wp-content/uploads/2018/08/Golden-Edge.png" group-title="CINE",GOLDEN EDGE
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1741
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest/scale-to-width-down/340?cb=20191215194002&path-prefix=es" group-title="CINE",GOLDEN PLUS
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1742
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER " tvg-logo="http://www.mundo-latam.argentina-buenos-aires.arrecifesciudad.com/onewin/origen/baypro/imagenes/logos-tv/golden-premier.png" group-title="CINE",GOLDEN PREMIER 
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/10870
-#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL BBC" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51OUvjSSpZL.png" group-title="DEPORTES",GOLF CHANNEL BBC
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/15740
+#EXTINF:-1 tvg-id="history.co" tvg-name="HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png" group-title="ENTRETENCIÓN",HISTORY
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/791
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png" group-title="ENTRETENCIÓN",HISTORY ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/15565
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/HBO_2_Logo.png/125px-HBO_2_Logo.png" group-title="CINE",HBO 2 
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1745
-#EXTINF:-1 tvg-id="hbo2.cl" tvg-name="HBO 2 ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="LATINOS SD",HBO 2 ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55431
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO FAMILY 
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1746
-#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="HBO Family ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="LATINOS SD",HBO Family ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55432
-#EXTINF:-1 tvg-id="hbo.la" tvg-name="HBO latino" tvg-logo="http://www.arrecifesciudad.com/muluni/imagenes/logos-tv/hbo.png" group-title="CINE",HBO latino
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1744
-#EXTINF:-1 tvg-id="hbo.la" tvg-name="HBO latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="CINE",HBO latino
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/45651
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4NukklEvA5Ji9lye0kxChfkecsn-qg_Oqt6d9Co2OUEZ5xsQN" group-title="CINE",HBO MUNDI
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1750
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS" tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png" group-title="CINE",HBO PLUS
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1747
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAACOCAMAAABDh7fdAAAAh1BMVEUAAAD///8jIyPa2toEBAReXl5mZmbl5eWjo6MICAh5eXn8/Pz4+Ph/f38TExOpqanr6+vHx8dVVVXNzc0QEBAuLi69vb0ZGRkzMzNzc3Px8fFtbW3V1dW4uLhFRUUXFxc8PDyQkJApKSkeHh5NTU1CQkKmpqaXl5exsbGJiYlZWVlQUFCUlJRXHlVUAAAKvUlEQVR4nO2da8NqShTHiUIuEQmp3HpCz/f/fMe4TKo1E3bhnLP/L/aLjeGXuay1Zi0Pw/5HxEz9AGTJiuLpuu4pcpez5wkiC3Z4yJNL4DhOcNqusiOnvLmkBPHUFSDVa59oQKes9eKICB151kHdmHpXCDXZWcyDpMXJPXK0V1OC6BEDaCG0TxR56BSuOLKELn4Vbzlr+93vynq2u5PgBqTFaiMQWSqQ3QggSNbWoHZ47+di0a6XdhkJZVwQhtm7AvgcFcaJ8DLu4iOVmwUIwwQ2/JsqdvIWo9Qugwbb+CDMXoRI9LXWtQH+ZL62MAEIo11fnkM2TlD7JMWh99zCFCCvJMo17tcCnz+PlElAGG3z8BDeutvoaCsw5gDC7PxW0/qhPwfDRMc5gDDLeyfXl32Gx11xOgcQCXcubzXkeqT4OAMQJqhbV9Qh/apSZMwAhAnLZuVsOEfxa3AzAHHK9fl4HnZ1rftQmw5EQmOVc4Zd3IhX5clBGLcY6EOvxTofvwsSn7AuEWF2DXRW/JMBUumkfxXkoNwliHD/OfsCeF8s/ryIokVM9VAY/vpdkPalrB9A7Uu2SnlALVF/TEHQBe4YrnaUJXPHjQfCHiETXcpADxuJX7hGy76VuWtCfC/1eB8HRMnBpyX9zrH6EmfwUqKdv/DHA4GvJunuN8mFmib0jOR5ZSOCmN3XPan26hUuXee323YVGtXEJKcL+IpyaR0JxO/sOElVOM3bLOPmjpZTdzUDnuXKpXUkEKOrQy5lKPQlPwcioirgYMIT+VIeDSTsyMGsEIfyu3/+f35bzrKwabYTxgLxTh05SuMe9nwDE72qDHoMSRwL5NrRFLFQbyd5KA6aZvUEOrSigmiu2tINOqUbiHwkTDcv2qKBTjTAyqM2tDJePBpIBxFBch/LPLovPZ4gDZmyPnm9D1nC2ro3vwUi7e/qbuHmxUiXXfLxCN1uA7THp98CGaTSkOVo3RCt4QL0xq6TgUCvKUajOaNdFRXzjwxFXdZTgURQTw+KwawHtMskNIhE4ECuTAMS2NBIWBULtE83ylS0KAJv8zIJiOUKMvRGMsJTtpQXrCYwCQbe+CBSkCqsAq1rImndvetUzGscMNodfWwQKflBy5oC2Szie6PsUoBAnv74IHy09mUKyC/98vmAoItEBQZBy8gPvWslCrzSTAJS+IC6DJluaEoy6IN9ycK+zRSDnSmdC2hVu6Gfm+5KImsrBV5aMtE6wuTQOrIrvEBlS7vMMghr/0qeCESC7qgZBJsQ64JQoZk7m5XRWA4Smo1SbnOBcYyfr5nxZyytuxkfoAjDlTxvlQFraKWRbCqIZLUEPg4RZGliGT85PQx9V2nHw84sUul3gW+ssIopIHFq3GWqvXx2t+3qKmJXF9FBYQKT0D/4rFhJ5V/oOW7yt4IPDyDFRNMxYsqX0c8jOAXzB2Tb+KDfpTbBBzDu9UEQupfRUlzu06aAWSi5iMODrGbmbIwFwtJ2Qh5U7dOa2+e7xdcyAgl28NImHgnkjZvRUlLeVQ8fNuy0ZZl5J1/hyCvqkCOBQM4QQbfynciCuI0kdE/+fHGNMhdSCeHpb2+OB9I5iM0gP7i6RubsjXgVU7Peu9JdwmtdKuOB9NroiUMg10+2E0IbVVrLOCCwKaiR6PiL+ISiGAdiVOLkjQdiQz2Ld8mxOMnJfK/ZdVOE9EYOrlhVysAoINwFfNiUOinvg1UobtLNVU0i2pyXK18FkVsJA5sAfALLFN5movD8u8EV16lOXwKJtlg3Uop40f7PH6dw8Cr7VZAuKvrE8Oy5Rk3+2pQgv8W1QjDw4lqxzbZBvClAytg7a/RM+H0U2jycHGRVzTbXrl4XIN5Vpgc5151CCYcP+Ly1bE4GssbL3XpY2i/DbNsPOBXI7p4f6h2GkSQP6fETgVjt5PghqfEMnz9W1EwDwq8f8rGUrPeIrzzfqUH4/Nm4FbumFNQ6vxSQTAKyfPE3ZJPkbUDiL6/lTROA8K8cLCpN6pybZh2AgrPxQTQVLqyUjVunMS8lR6iacXSQ4EisRPQ27+vepMvPS3nVFCDxGq4ibFDEE3X+sk7PPvAkIJJTboRS5RmuQypxdR6SgacB4a04cFNyUWhbuh0m0fnhdrwWJaFNLVouQZTfNaDsAd8ET0FtpypN6DQ1E23O61SWXknRTVHNL46z2zlOsF2Lpt6pDHyekhXvX1+YP0B/QeamvyBz01+QuekvyNz0PwaROaOdEcG9sYJkRRcEATa0PK4twkkd1RtEyaJ2iooWO6flrwmb17JgZ/nJiaJdkKzE55Pk9LJoKdpdbgfRJxvqdPUGgcq+eC1JXx9A9rP21khx0ubBjoeS3Pn99jgMpTeIDbs90s18wjAPL4F2yflt+RSELWsrf/osxZdAiDkMi4cva+gZnBlzSfFAAEtaqpYGDJbPgTD71sckfGJRlYW/dkUEeWhpAhBmh3uXQdnllFb1SDHIcYaof+/61Bgp1dSWv6mpqgOmtLSOS7ePin0ERLqruX1dW24Sq6RqHZQHEP4u3FI4Gsj+By+K6ap5pDKbgpyU2EhCSX0YxAo3m02aFv9srsumpaDvKxkMsmhF2uRNncWEEowV9304ukyzbED2PtCSdHy58wggrLyun/BKyDt5VuLBICzbJF+Gk4DgCoID61FzwhuhfWUYpCmqWPVcSz4E0uR5L9ljt82ni0cAkevAZfL2A4JfAWnKKHKwuA56JUcCCHuo/jfoaXJ9CMQL6jcCFUCBcgkgTY7aaZo3ktYdag0Vd4CKOBikyeGfZozotWnFbzon+EpHEwJRmsKSsOdz/QmIXEsx8/o9xGbXCvxipobeiNBsuVs2+RE+CyIlOLUswRb7Ek5dB3VoQKTbslHuND3z0te9+qjRKKVm953/G23l5H/7PtdHQXIFH+XJan5zGkjQbXPrSyA7H3srO3FDUjMKAvCDQpXO/T2rD4Kgr0g2RynLWVMNRnkjlXU8FYgVosrm+uEW5K7R1EhtiSD8c8LMqCCRiJbiJsRjkX3V2gRh1iQPUVOHBIQ+AyItDpW/josEQ9L1OKNVhEG0Wzoo4DgcxEKleed9HAXJYYO/h9WUbRLXgbRZh+y7q1s5zNY5CvKMELT8Hoh09cvqPP8xZHvEh+HLcd2Co+MFUbVLGWavvfgnDQeBbQic7u7ASSc4O1bF1q80IIr1qk+DsI3Ty6ygPmI0Joxm3EE2wIm99XEQHOTm1VePwseBu62CQfh5gijYRZQOTyEd2Q6aY6h6BYP8DHnwZw0HIcVrTGwA85eHXDchu5e+oXxyDCISWuqlz4OwrRxxKz/WX95XuKtzdx4XaNWZPchDUYi0W6lhmK1vccsH1srOhNeRuYKwwpuYqRRW3/ibPQjh26V46KyrkfMvAGG5l6LhVr9qMvPmMkao0QHyX0rYYZtwLtMvPcyh2AH0UqzD3XKZiYlC8TgqCWHwbPFr2/bCgvdH+u4ggOq/z15bfbH/9lQ9XUY4qsLvA9V4MFqaj9Jog7ajn9UbpPEBOwWeZN0IV6cgCG6u6D/b6E22cdQ7YgKpN0j9+cHum3wo61UBU17rT1q4f5KCgtU/qaasIH4pZRmiKmJMcFz6akCak3+LI/cDHEVLiaVtzffnddGQfC3Pp/5prD4tGUNd9Bf9ZxLP/gFdyexo1giHFwAAAABJRU5ErkJggg==" group-title="CINE",HBO POP
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1751
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="CINE",HBO SIGNATURE 
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1748
-#EXTINF:-1 tvg-id="" tvg-name="HBO subtitulado" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="CINE",HBO subtitulado
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/33362
-#EXTINF:-1 tvg-id="" tvg-name="HBO usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="CINE",HBO usa
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/33363
-#EXTINF:-1 tvg-id="hboplus.la" tvg-name="HBO West HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSevizFLo2_TLXSE55-KFW7Qsg9UqhNxxqVVA&usqp=CAU" group-title="PPV CINE",HBO West HD
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54865
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="CINE",HBO XTREAM
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1749
-#EXTINF:-1 tvg-id="maxprime.la" tvg-name="HBO XTREME ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="CINE",HBO XTREME ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/43223
-#EXTINF:-1 tvg-id="hbo.la" tvg-name="HBO ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png" group-title="LATINOS SD",HBO ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55430
+
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="Investigation Discovery ⁽ˢᵈ⁾" tvg-logo="https://dcom-prod.imgix.net/files/2018-12/ID-Logo-white.png" group-title="LATINOS SD",Investigation Discovery ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55433
+
+#EXTINF:-1 tvg-id="" tvg-name="Johnny Bravo" tvg-logo="http://tv.iptv5latino.cl:8000/images/732cd37963c94b5aabc5fd5c92cb39c9.png" group-title="24/7 PREMIUM",Johnny Bravo
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60559
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda" tvg-logo="http://tv.iptv5latino.cl:8000/images/b69590c12f099d6cc07886f338d05620.png" group-title="24/7 PREMIUM",Kung Fu Panda
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60560
+
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="LA LIGA TV BAR" tvg-logo="https://futbar.com/static/img/laliga_white_logo.png" group-title="DEPORTES",LA LIGA TV BAR
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/45690
+
+#EXTINF:-1 tvg-id="" tvg-name="La Resistencia" tvg-logo="http://tv.iptv5latino.cl:8000/images/ba7d9273560af404add4ea1b6baed137.png" group-title="24/7 PREMIUM",La Resistencia
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60563
+#EXTINF:-1 tvg-id="" tvg-name="La Resistencia Canal 2" tvg-logo="http://tv.iptv5latino.cl:8000/images/ef872f3555438a987e1d9bc8fe9a7ec4.png" group-title="24/7 PREMIUM",La Resistencia Canal 2
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60564
+
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="LALIGA TV" tvg-logo="https://lh3.googleusercontent.com/proxy/NggWEvCDqCK2wywmQhXCDEmuAVTxEmZ3Ar4ThNVhluYdWBIJqlFqBzonbfRXNTlMG_a3Z96ASt0as7Xcg9RZDAIWvyHdx00Uf9xT7ASqzloHMbCkqnag" group-title="DEPORTES",LALIGA TV
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/46186
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="Las Estrellas ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="LATINOS SD",Las Estrellas ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55435
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1024px-Lifetime_logo17.svg.png" group-title="ENTRETENCIÓN",LIFETIME 
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/16160
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1024px-Lifetime_logo17.svg.png" group-title="ENTRETENCIÓN",LIFETIME ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/16161
+#EXTINF:-1 tvg-id="" tvg-name="LIGA MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="PPV LIGAS DE FÚTBOL",LIGA MX
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/58270
+#EXTINF:-1 tvg-id="" tvg-name="LIGA MX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="PPV LIGAS DE FÚTBOL",LIGA MX 2
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/58271
+
+#EXTINF:-1 tvg-id="" tvg-name="Lo Mejor de Donald" tvg-logo="http://tv.iptv5latino.cl:8000/images/0d343c0f0ca763f983c8042350059f56.png" group-title="24/7 PREMIUM",Lo Mejor de Donald
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60569
+#EXTINF:-1 tvg-id="" tvg-name="Lo Mejor de Mickey" tvg-logo="http://tv.iptv5latino.cl:8000/images/4d5257e5acc7fcac2f5dcd66c4e78f9a.png" group-title="24/7 PREMIUM",Lo Mejor de Mickey
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60570
+#EXTINF:-1 tvg-id="" tvg-name="Lo Mejor de Pluto" tvg-logo="http://tv.iptv5latino.cl:8000/images/c6009f08fc5fc6385f1ea1f5840e179f.png" group-title="24/7 PREMIUM",Lo Mejor de Pluto
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60571
+
+#EXTINF:-1 tvg-id="" tvg-name="Looney Tunes" tvg-logo="http://tv.iptv5latino.cl:8000/images/5f5e289ed3dce31dbafef439a08000bf.png" group-title="24/7 PREMIUM",Looney Tunes
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60572
+#EXTINF:-1 tvg-id="" tvg-name="Looney Tunes Show" tvg-logo="http://tv.iptv5latino.cl:8000/images/acb1883076c6e20f9c26b6288776b48e.png" group-title="24/7 PREMIUM",Looney Tunes Show
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60573
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Angels" tvg-logo="https://slashshout.com/wp-content/uploads/2020/04/mlb_logo_a_l.jpg" group-title="PPV MLB",Los Angeles Angels
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57719
+#EXTINF:-1 tvg-id="" tvg-name="Los Autos Locos" tvg-logo="http://tv.iptv5latino.cl:8000/images/631f1c3d22415d37321a2ee39f118f18.png" group-title="24/7 PREMIUM",Los Autos Locos
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60574
+#EXTINF:-1 tvg-id="" tvg-name="Los Cazafantasmas" tvg-logo="http://tv.iptv5latino.cl:8000/images/18f08aa9ec1d5a915a9bd39cbb4bf27a.png" group-title="24/7 PREMIUM",Los Cazafantasmas
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60575
+
+#EXTINF:-1 tvg-id="" tvg-name="Los Gatos Samurai" tvg-logo="http://tv.iptv5latino.cl:8000/images/b4d8fdad3c88dce6a6bad8879cc17ca9.png" group-title="24/7 PREMIUM",Los Gatos Samurai
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60577
+#EXTINF:-1 tvg-id="" tvg-name="Los Locos Adams" tvg-logo="http://tv.iptv5latino.cl:8000/images/a348ab10d31322c7b810aa052b4a1a6b.png" group-title="24/7 PREMIUM",Los Locos Adams
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60578
+#EXTINF:-1 tvg-id="" tvg-name="Los Picapiedras" tvg-logo="http://tv.iptv5latino.cl:8000/images/69072e37f322306e1c6aa948151f35d2.png" group-title="24/7 PREMIUM",Los Picapiedras
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60579
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson Retro." tvg-logo="http://tv.iptv5latino.cl:8000/images/9dbaa2bcaf111bc995677997e331abe2.png" group-title="24/7 PREMIUM",Los Simpson Retro.
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60580
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons Horror ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/6031a18e593a6d8b51e408c24498a977.png" group-title="24/7 PREMIUM",Los Simpsons Horror ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60581
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons Latinos ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/33ebdf44d2e2d316e57d9cf360da8835.png" group-title="24/7 PREMIUM",Los Simpsons Latinos ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60582
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons Retro" tvg-logo="http://tv.iptv5latino.cl:8000/images/08272ffb467de75c95b2bdfe7393c314.png" group-title="24/7 PREMIUM",Los Simpsons Retro
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60583
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/c81d76d6c160db37ea82635e5b26a9a0.png" group-title="24/7 PREMIUM",Los Simpsons ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60584
+#EXTINF:-1 tvg-id="" tvg-name="Los Supersonicos" tvg-logo="http://tv.iptv5latino.cl:8000/images/9041850c9fdcf1080566ea0048ba73aa.png" group-title="24/7 PREMIUM",Los Supersonicos
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60585
+
+#EXTINF:-1 tvg-id="" tvg-name="MC 90's" tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="MÚSICA",MC 90's
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57638
+#EXTINF:-1 tvg-id="" tvg-name="MC Alternative" tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="MÚSICA",MC Alternative
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57639
+#EXTINF:-1 tvg-id="" tvg-name="MC Brits Plus Hits" tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="MÚSICA",MC Brits Plus Hits
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57644
+#EXTINF:-1 tvg-id="" tvg-name="MC Country" tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="MÚSICA",MC Country
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57645
+#EXTINF:-1 tvg-id="" tvg-name="MC Dance/EDM" tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="MÚSICA",MC Dance/EDM
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57641
+#EXTINF:-1 tvg-id="" tvg-name="MC Hip-Hop and R&B" tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="MÚSICA",MC Hip-Hop and R&B
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57642
+#EXTINF:-1 tvg-id="" tvg-name="MC Hit List" tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="MÚSICA",MC Hit List
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57643
+#EXTINF:-1 tvg-id="" tvg-name="MC Tropicales" tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="MÚSICA",MC Tropicales
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57650
+#EXTINF:-1 tvg-id="" tvg-name="Mega Gourmet ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/c05462909348f837aa7ca2f60ecf0a29.png" group-title="24/7 PREMIUM",Mega Gourmet ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60506
+#EXTINF:-1 tvg-id="" tvg-name="MEGA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Mega_TV_-_Logo.png" group-title="PUERTO RICO",MEGA TV
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/39287
